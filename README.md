@@ -10,8 +10,8 @@ or:
 For the Go version you can run it with `go run add.go <integer> <integer>` or build a binary with `go build add.go` and run it with `./add <integer> <integer>`
 
 To use the second:
-`bash add.sh <integer> <integer>`
+`bash save.sh <integer> <integer>`
 or:
-`python add.py <integer> <integer>`
+`python save.py <integer> <integer>`
 the output is writen to:
 total.txt
